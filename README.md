@@ -10,7 +10,7 @@ All team members are Computer Science students at PUC-Rio:
 |---|---|
 | Guilherme Cunha | guicunharib@gmail.com |
 | José Carlos Neto | jcsneto16@gmail.com |
-| Lucio Oliveira | EMAIL_LUCIO |
+| Lucio Oliveira | lciocampos2003@gmail.com |
 | Luidgi Colimerio |luidgicolimerio@gmail.com |
 | Rafael Estevao | rafael6297@gmail.com |
 
